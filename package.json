@@ -1,0 +1,21 @@
+{
+  "name": "@frameworkdotjs/toolchains",
+  "version": "1.0.0",
+  "description": "A collection of dependencies setting up development environment",
+  "repository": "https://github.com/frameworkdotjs/toolchains.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Framework.js <https://github.com/frameworkdotjs>",
+  "license": "MIT",
+  "dependencies": {
+    "npm-run-all": "^4.1.5",
+    "rimraf": "^5.0.1"
+  },
+  "packageManager": "pnpm@8.6.12",
+  "publishConfig": {
+    "access": "public"
+  }
+}
