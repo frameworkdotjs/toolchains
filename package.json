@@ -1,9 +1,15 @@
 {
   "name": "@frameworkdotjs/toolchains",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A collection of dependencies setting up development environment",
   "repository": "https://github.com/frameworkdotjs/toolchains.git",
   "main": "index.js",
+  "bin": {
+    "npm-run-all": "./node_modules/.bin/npm-run-all",
+    "run-p": "./node_modules/.bin/run-p",
+    "run-s": "./node_modules/.bin/run-s",
+    "rimraf": "./node_modules/.bin/rimraf"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
