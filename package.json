@@ -1,6 +1,6 @@
 {
   "name": "@frameworkdotjs/toolchains",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "A collection of dependencies setting up development environment",
   "repository": "https://github.com/frameworkdotjs/toolchains.git",
   "main": "index.js",
