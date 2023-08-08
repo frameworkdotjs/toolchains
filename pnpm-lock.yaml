@@ -6,10 +6,10 @@ settings:
 
 dependencies:
   npm-run-all:
-    specifier: ^4.1.5
+    specifier: '*'
     version: 4.1.5
   rimraf:
-    specifier: ^5.0.1
+    specifier: '*'
     version: 5.0.1
 
 packages:
